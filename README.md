@@ -8,7 +8,7 @@ The input and output contents of generative large model are checked by classific
 ### usage
 【ServiceApplication.java】
 
-相关模型下载：https://github.com/jiangnanboy/text_security_audit。
+相关模型下载：https://github.com/jiangnanboy/text_security_audit
 
 使用者可自行训练bert类相关模型，用本项目加载即可。
 
