@@ -14,7 +14,7 @@ The input and output contents of generative large model are checked by classific
 
 本项目采用java, springboot实现。
 
-* 敏感词过滤(sensitive word detection)
+* 敏感词(sensitive word detection)
 
 * 政治类(politics detection)
 
